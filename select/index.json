@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "ばらの花 × ネイティブダンサー　 (Movie Edit)",
+  "base_artist": "yui (FLOWER FLOWER) × ミゾベリョウ (odol)",
+  "createdAt": "2025-12-05T05:07:22.293817Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ばらの花",
+      "artist": "QURULI",
+      "has_synced": true,
+      "path": "select/01_ばらの花_QURULI.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ばらの花",
+      "artist": "くるり",
+      "has_synced": true,
+      "path": "select/02_ばらの花_くるり.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ばらの花",
+      "artist": "くるり",
+      "has_synced": true,
+      "path": "select/03_ばらの花_くるり.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ばらの花 × ネイティブダンサー",
+      "artist": "yui (FLOWER FLOWER) × ミゾベリョウ (odol)",
+      "has_synced": true,
+      "path": "select/04_ばらの花_×_ネイティブダンサー_yui_(FLOWER_FLOWER)_×_ミゾベリョウ_(odol).lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ばらの花",
+      "artist": "Quruli",
+      "has_synced": true,
+      "path": "select/05_ばらの花_Quruli.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ばらの花 × ネイティブダンサー　 (Movie Edit)",
+      "artist": "yui (FLOWER FLOWER) × ミゾベリョウ (odol)",
+      "has_synced": true,
+      "path": "select/06_ばらの花_×_ネイティブダンサー_(Movie_Edit)_yui_(FLOWER_FLOWER)_×_ミゾベリョウ_(odol).lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ばらの花 (ベスト オブ くるり Remastered)",
+      "artist": "くるり",
+      "has_synced": true,
+      "path": "select/07_ばらの花_(ベスト_オブ_くるり_Remastered)_くるり.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ばらの花 × ネイティブダンサー",
+      "artist": "yui (FLOWER FLOWER) × ミゾベリョウ (odol)",
+      "has_synced": false,
+      "path": "select/pl_01_ばらの花_×_ネイティブダンサー_yui_(FLOWER_FLOWER)_×_ミゾベリョウ_(odol).txt"
+    }
+  ]
+}
